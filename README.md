@@ -1,0 +1,2 @@
+# HaskellMp3FileSystem
+You have been tasked with designing and writing a Haskell application and appropriate functions to model an Mp Player. This Mp Player should be able to hold metadata on mps (note: you are not dealing with storing the actual mp files, just records related to them). An mp consists of a title, an artist, a genre, a count of the number of times the mp has been played and a size in mb.
